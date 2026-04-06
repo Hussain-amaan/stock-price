@@ -4,7 +4,8 @@ This project analyzes and predicts the stock prices of selected companies using 
 
 ---
 
-## 📌 Objective
+## 📌 objective
+
 
 To build predictive models using historical stock data to forecast the **next day's closing price**.
 
