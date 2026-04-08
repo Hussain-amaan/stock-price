@@ -1,5 +1,6 @@
 # 📈 Stock Price Prediction using Machine Learning
 
+
 This project analyzes and predicts the stock prices of selected companies using various machine learning models such as **Linear Regression** and **Random Forest Regressor**.
 
 ---
